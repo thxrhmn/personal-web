@@ -1,8 +1,8 @@
 function ProgrammingStack() {
   return (
     <div className="mb-5 md:mb-0">
-      <h1 className="font-semibold text-xl mb-3">Programming Stack</h1>
-      <div className="flex flex-wrap gap-3">
+      <h1 className="font-semibold text-xl mb-3 text-center md:text-left">Programming Stack</h1>
+      <div className="flex flex-wrap gap-3 justify-center md:justify-start">
         <div className="nf nf-dev-html5 text-2xl border rounded-md border-solid border-white p-2"></div>
         <div className="nf nf-dev-css3 text-2xl border rounded-md border-solid border-white p-2"></div>
         <div className="nf nf-md-tailwind text-2xl border rounded-md border-solid border-white p-2"></div>

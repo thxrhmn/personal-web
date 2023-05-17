@@ -1,8 +1,8 @@
 function Contact() {
   return (
     <div className="mb-5">
-      <h1 className="font-semibold text-xl mb-3">Contact</h1>
-      <div className="flex gap-2 flex-wrap">
+      <h1 className="font-semibold text-xl mb-3 text-center md:text-left">Contact</h1>
+      <div className="flex gap-2 flex-wrap justify-center md:justify-start">
         <div className="border rounded-md border-solid border-white p-2">
           Github<span className="nf nf-dev-github_badge text-xl ml-3"></span>
         </div>
