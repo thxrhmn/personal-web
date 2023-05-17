@@ -1,6 +1,6 @@
 function Education() {
   return (
-    <div className="mb-3">
+    <div className="mb-5">
       <div className="mb-2">
         <h1 className="font-semibold text-xl mb-3">Education</h1>
         <div className="border-solid border-white border-l-2 p-2">

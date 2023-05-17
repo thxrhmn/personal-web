@@ -1,6 +1,6 @@
 function ProgrammingStack() {
   return (
-    <div className="mb-3 md:mb-0">
+    <div className="mb-5 md:mb-0">
       <h1 className="font-semibold text-xl mb-3">Programming Stack</h1>
       <div className="flex flex-wrap gap-3">
         <div className="nf nf-dev-html5 text-2xl border rounded-md border-solid border-white p-2"></div>
