@@ -7,7 +7,7 @@ import ProgrammingStack from "./components/ProgrammingStack";
 
 function App() {
   return (
-    <div className="bg-black">
+    <div className="" style={{backgroundColor: "#303030"}}>
       <div className="p-4 mx-auto md:w-[1000px] text-white" style={{backgroundColor: "#303030"}}>
         <div className="flex flex-col md:flex-row">
           <div className="w-full md:w-1/2">
