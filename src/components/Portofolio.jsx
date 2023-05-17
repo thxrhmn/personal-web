@@ -3,7 +3,7 @@ import Holyways from "../assets/images/holyways.png"
 
 function Portofolio() {
   return (
-    <div className="w-full">
+    <div className="w-full mb-3">
       <h1 className="text-xl font-semibold mb-3">Portofolio</h1>
       <div className="flex flex-col md:flex-row gap-2 mb-3">
         <div className="border border-white border-solid rounded-md md:w-[50%] overflow-hidden">
