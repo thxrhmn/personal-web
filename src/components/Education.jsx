@@ -12,7 +12,7 @@ function Education() {
 
       <div className="">
         <div className="border-solid border-white border-l-2 p-2">
-          <h2 className="font-semibold">SMK AN-NAHl</h2>
+          <h2 className="font-semibold">SMK AN-NAHL</h2>
           <h4 className="text-gray-300 m-0">Mei 2014 - Mei 2017</h4>
           <h3 className="text-gray-300 m-0">Teknik komputer dan Jaringan</h3>
         </div>

@@ -5,7 +5,7 @@ function Contact() {
         Contact
       </h1>
       <div className="flex gap-2 flex-wrap justify-center md:justify-start">
-        <a href="https://github.ocm/thxrhmn">
+        <a href="https://github.com/thxrhmn">
           <div className="border rounded-md border-solid border-white p-2">
             Github<span className="nf nf-dev-github_badge text-xl ml-3"></span>
           </div>
