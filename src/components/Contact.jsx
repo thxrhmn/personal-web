@@ -12,7 +12,7 @@ function Contact() {
         </a>
         <a href="#">
           <div className="border rounded-md border-solid border-white p-2">
-            Likedin<span className="nf nf-md-linkedin text-xl ml-3"></span>
+            Linkedin<span className="nf nf-md-linkedin text-xl ml-3"></span>
           </div>
         </a>
         <a href="https://thxrhmn.t.me">
